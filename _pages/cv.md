@@ -45,7 +45,9 @@ Publications
 
 Honors
 ======
+* Excellent Graduate in Tsinghua University (Top 10%)
 * China National Scholarship (2020)
+* Excellent Comprehensive Scholarship of Tsinghua University (2018,2019)
 
 Contact
 ======
