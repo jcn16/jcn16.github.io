@@ -5,7 +5,7 @@ permalink: /publication/2022-relighthuman
 date: 2022-07-04
 venue: 'ECCV 2022'
 citation: '**Chaonan Ji**, Tao Yu, Kaiwen Guo, Jingxin Liu, Yebin Liu
-,Tsinghua University.'
+,Tsinghua University. ECCV 2022. '
 ---
 
 [Download paper here]()
