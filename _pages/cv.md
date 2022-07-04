@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am the second year of postgraduate student from Tsinghua University, pursuing **Master** Degree. I have been doing researches at **BBNC** with Professor **Yebin Liu** in the field of inverse rendering and 3D vision. My research interest typically lies in **3D Vision, Neural Rendering and Animatable Avatar**. 
+I am the second year of postgraduate student from Tsinghua University, pursuing **Master** Degree. I have been doing researches at **BBNC** with Professor [**Yebin Liu**](https://liuyebin.com/) in the field of inverse rendering and 3D vision. My research interest typically lies in **3D Vision, Neural Rendering and Animatable Avatar**. 
 
 I am on the 2023 job market. 预计明年年中毕业，找工作进行中，欢迎联系！
 
