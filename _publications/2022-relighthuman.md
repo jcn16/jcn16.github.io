@@ -9,6 +9,7 @@ citation: '**Chaonan Ji**, Tao Yu, Kaiwen Guo, Jingxin Liu, Yebin Liu
 ---
 
 [Download paper here]()
+[Project](https://jcn16.github.io/jcn.github.io/Relighting/)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
 
