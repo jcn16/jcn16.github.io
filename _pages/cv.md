@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am the second year of postgraduate student from Tsinghua University, pursuing **Master** Degree. I have been doing researches at **BBNC** with Professor [**Yebin Liu**](https://liuyebin.com/) in the field of inverse rendering and 3D vision. My research interest typically lies in **3D Vision, Neural Rendering and Animatable Avatar**. 
-
-I am on the 2023 job market. 预计明年年中毕业，找工作进行中，欢迎联系！
+I am an algorithm Engineer at Tongyi Lab, dedicated to Human-centric video generation and editing. I have been doing researches at **BBNC** with Professor [**Yebin Liu**](https://liuyebin.com/) in the field of inverse rendering and 3D vision. A full list of my publications is available at [**Google Scholar**](https://scholar.google.com/citations?user=ViJVw0oAAAAJ&hl=en).
 
 
 Education
 ======
 * B.E. in Tsinghua University, 2016-2020.
-* Postgraduate in Department of Automation, Tsinghua University, 2020-present. Expected Master Degree completion date: 2023-06
+* M.S. in Department of Automation, Tsinghua University, 2020-2023.
+* Algorithm Engineer in Alibaba Group, Tong Yi lab, 2023-present.
 
 <!-- Work experience
 ======
