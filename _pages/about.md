@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 {% include base_path %}
 I am an algorithm Engineer at Tongyi Lab, dedicated to Human-centric video generation and editing. I have been doing researches at **BBNC** with Professor [**Yebin Liu**](https://liuyebin.com/) in the field of inverse rendering and 3D vision. A full list of my publications is available at [**Google Scholar**](https://scholar.google.com/citations?user=ViJVw0oAAAAJ&hl=en). Here is my [**resume**](https://github.com/jcn16/resume/blob/main/resume_1_0_0.pdf)
 
