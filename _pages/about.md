@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: "CV"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,17 +18,10 @@ Education
 * M.S. in Department of Automation, Tsinghua University, 2020-2023.
 * Algorithm Engineer in Alibaba Group, Tong Yi lab, 2023-present.
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - present: Algorithm Engineer, Tongyi Lab, Alibaba Group
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
   
 <!-- Skills
 ======
@@ -39,11 +32,11 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Honors
 ======
