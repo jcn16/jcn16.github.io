@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2020 - present: Algorithm Engineer, Tongyi Lab, Alibaba Group
+* 2023 - present: Algorithm Engineer, Tongyi Lab, Alibaba Group
   
 <!-- Skills
 ======
